@@ -1,6 +1,6 @@
 # Sistema de Control de Asistencias Escolares
 
-## Resumen
+## Resumen:
 
 El Sistema de Control de Asistencias Escolares es una plataforma web orientada a sistematizar y centralizar la gestión de asistencias en instituciones educativas.
 
